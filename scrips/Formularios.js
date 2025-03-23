@@ -1,6 +1,6 @@
 const name = document.getElementById("name")
 const last = document.getElementById("last")
-const email = document.getElementById("Email")
+const email = document.getElementById("email")
 const write = document.getElementById("Write")
 const form = document.getElementById("form")
 const parrafo = document.getElementById("warnings")
